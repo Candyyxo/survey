@@ -7,7 +7,7 @@ const noBtn = document.querySelector(".no-btn");
 yesBtn.addEventListener("click", () => {
     question.innerHTML = "Hah! Schwuchtel";
     gif.src =
-        "https://media.giphy.com/media/wAWBCV4jef5Ti/giphy.gif";
+        "https://giphy.com/gifs/Vh8h2u2FGdxdhchsqZ";
 });
 
 noBtn.addEventListener("mouseover", () => {
